@@ -1,4 +1,4 @@
-# Technical Project Management QuickSheet
+# Project Management QuickSheet
 
 ## Scope of Work
 
